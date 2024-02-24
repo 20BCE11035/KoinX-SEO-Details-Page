@@ -1,4 +1,5 @@
 ## koinx_seo_detail_page
+https://www.figma.com/file/VSP8gbfbOlRdXk70VCa1hp/KoinX-SEO-Details-Page---Assignment?type=design&node-id=1%3A496&mode=design&t=TmWpuqsOuLg3rCQy-1
 
 Generated with ❤️ from VS.Code
 
