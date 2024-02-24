@@ -1,3 +1,7 @@
+## Objective
+- Convert the following Figma design to code using React.js or Next.js: https://www.figma.com/file/VSP8gbfbOlRdXk70VCa1hp/KoinX-SEO-Details-Page-Assignment?type=design&node-id=37%3A2222&mode=design&t=aOPB44CgCn1gNdyq-1
+
+
 ## koinx_seo_detail_page
 https://www.figma.com/file/VSP8gbfbOlRdXk70VCa1hp/KoinX-SEO-Details-Page---Assignment?type=design&node-id=1%3A496&mode=design&t=TmWpuqsOuLg3rCQy-1
 
