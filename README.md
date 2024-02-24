@@ -1,6 +1,14 @@
 ## Objective
 - Convert the following Figma design to code using React.js or Next.js: https://www.figma.com/file/VSP8gbfbOlRdXk70VCa1hp/KoinX-SEO-Details-Page-Assignment?type=design&node-id=37%3A2222&mode=design&t=aOPB44CgCn1gNdyq-1
 
+![Screenshot (404)](https://github.com/20BCE11035/KoinX-SEO-Details-Page/assets/153983455/99f5fa1e-aa38-44ab-a7a4-f86f416ff796)
+![Screenshot (405)](https://github.com/20BCE11035/KoinX-SEO-Details-Page/assets/153983455/e13fcd21-a716-4f0a-947c-323893ba5139)
+![Screenshot (406)](https://github.com/20BCE11035/KoinX-SEO-Details-Page/assets/153983455/fc9a9c43-c2d8-48e8-8e7c-6f6d6986de3c)
+![Screenshot (407)](https://github.com/20BCE11035/KoinX-SEO-Details-Page/assets/153983455/08d6c233-e367-40cd-9138-95bb73d7d4a8)
+![Screenshot (408)](https://github.com/20BCE11035/KoinX-SEO-Details-Page/assets/153983455/e785d436-5a38-4fc7-aecd-c818bfe5e131)
+
+This is figma screen shot page.
+
 
 ## koinx_seo_detail_page
 https://www.figma.com/file/VSP8gbfbOlRdXk70VCa1hp/KoinX-SEO-Details-Page---Assignment?type=design&node-id=1%3A496&mode=design&t=TmWpuqsOuLg3rCQy-1
