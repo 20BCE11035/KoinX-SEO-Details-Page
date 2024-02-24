@@ -70,7 +70,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open (https://app.dhiwise.com/application/65d9daba6dfe610017caa82b) to view it in the browser.
 
 ### `npm test`
 
